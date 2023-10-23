@@ -1,4 +1,4 @@
-![Screenshot1](https://github.com/Mathewzcba/Aplicativo-de-Controle-de-Estoque/assets/119902473/ae24a33e-59c4-4149-af41-8fea85bfe883)# Aplicativo de Controle de Estoque V1
+# Aplicativo de Controle de Estoque V1
 
 Este é um aplicativo de controle de estoque simples, desenvolvido em Python usando a biblioteca PyQt5 e um banco de dados SQLite. O aplicativo permite que você adicione, atualize, exclua itens e gere relatórios de estoque.
 
